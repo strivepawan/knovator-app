@@ -275,38 +275,3 @@ flutter build ios --release
 4. Add tests if applicable
 5. Submit a pull request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 📞 Support
-
-For support or questions, please contact:
-- Email: hello@knovator.com
-- Website: https://knovator.com
-
-## 🏆 Evaluation Criteria Compliance
-
-| Area | Weightage | Status | Implementation |
-|------|-----------|--------|----------------|
-| Core Logic & DSA Application | 25% | ✅ Complete | Efficient data structures, optimized algorithms |
-| State Management (BLoC) | 25% | ✅ Complete | Full BLoC pattern implementation |
-| API Integration & Async Handling | 15% | ✅ Complete | CoinGecko API with error handling |
-| Local Persistence | 20% | ✅ Complete | SharedPreferences with JSON serialization |
-| UI/UX Implementation & Polish | 15% | ✅ Complete | Material 3 design with animations |
-| Error/Loading Handling | 5% | ✅ Complete | Comprehensive error states |
-
-**Total Score: 100% ✅**
-
-## 📱 Demo Video
-
-[Link to demo video will be provided]
-
-## 🔗 Repository
-
-[GitHub Repository Link]
-
-## 📦 APK Download
-
-[APK Download Link]#   k n o v a t o r - a p p  
- 
